@@ -16,7 +16,7 @@
 
 ## Instalação
 
-1. Clone o repositório: `git clone https://github.com/mMainel/beer-consuption`
+1. Clone o repositório: `git clone https://github.com/mMainel/beer-consumption`
 2. Entre no diretório do seu projeto: `cd projeto`
 3. Instale as dependências: `pip install -r requirements.txt`
 
