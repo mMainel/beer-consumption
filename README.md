@@ -1,4 +1,4 @@
-# Beer-consuption
+# Beer-consumption
 
 ## O Dataset e o Projeto
 
