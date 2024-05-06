@@ -19,3 +19,5 @@
 1. Clone o repositório: `git clone https://github.com/mMainel/beer-consuption`
 2. Entre no diretório do seu projeto: `cd projeto`
 3. Instale as dependências: `pip install -r requirements.txt`
+
+![](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/02/pjimage-2021-02-17T171727.443.jpg)
