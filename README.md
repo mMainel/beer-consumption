@@ -11,6 +11,9 @@
 
 <p style='font-size: 18px; line-height: 2; margin: 10px 50px; text-align: justify;'>Os dados para este estudo foram coletados em São Paulo - Brasil, numa região universitária. Esta área é conhecida por suas festas frequentadas por estudantes com idades entre 18 e 28 anos (em média).</p>
 
+### Objetivo
+<p style='font-size: 18px; line-height: 2; margin: 10px 50px; text-align: justify;'> O objetivo é desenvolver um modelo de Aprendizado de Máquina utilizando a técnica de Regressão Linear. Este modelo será capaz de prever o consumo médio de cerveja com base em um conjunto de variáveis. </p>
+
 ## Instalação
 
 1. Clone o repositório: `git clone https://github.com/mMainel/beer-consuption`
