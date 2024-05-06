@@ -1,7 +1,5 @@
 # Beer-consuption
 
-## Descrição
-
 ## O Dataset e o Projeto
 
 ### Fonte: https://www.kaggle.com/dongeorge/beer-consumption-sao-paulo
